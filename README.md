@@ -30,7 +30,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lfm023" height="30" width="40" />
   </a>
 </p>
-
+<h3 align="left"> Plateforms </h3>
+<p align="left">
+  <img src="https://www.codewars.com/users/LFM023/badges/large" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/lfm023.png" alt="Your Image Badge" />
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" />
