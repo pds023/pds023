@@ -8,18 +8,20 @@
 ---
 
 ## 🚀 About Me
-I’m a data scientist with 20+ years of experience, currently based in France. I specialize in developing interactive Shiny applications, exploring cybersecurity, and contributing to OSINT/HUMINT initiatives.
+I’m a data scientist with 10+ years of experience, currently based in France. I specialize in developing interactive Shiny applications, exploring cybersecurity, and contributing to OSINT/HUMINT initiatives.
 
-- 🔭 **Current Projects**: Building advanced **Shiny applications**.
-- 🌱 **Learning Focus**: Expanding skills in **Cybersecurity** and **Data Protection**.
-- 👯 **Collaboration Interests**: Open to collaborations in **OSINT/HUMINT** and **Data Science**.
-- 📂 **Portfolio**: Explore my projects on my [website](https://www.philippefontaine.eu).
+- 🔭 **Current Projects**: Developing innovative **Shiny applications** for data visualization and analysis.
+- 🌱 **Learning Focus**: Deepening my knowledge of **Cybersecurity** and **Data Protection**.
+- 👯 **Looking to Collaborate On**: Projects related to **Osint**, **Data Science**, and **Human Intelligence**.
+- 📂 **Portfolio**: View my work and projects on my [personal website](https://www.philippefontaine.eu).
 - 📄 **Résumé**: Learn more about my professional journey in my [CV](https://www.philippefontaine.eu/img/resume/cv_public.pdf).
 - 📫 **Reach Me**: **philippe.fontaine.ds@proton.me**
 
+
 ---
 
-## 🌐 Connect with Me
+## 🔗 Connect with Me
+
 <p align="left">
   <a href="https://codepen.io/pds023" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" />
@@ -41,6 +43,8 @@ I’m a data scientist with 20+ years of experience, currently based in France. 
 ---
 
 ## 🛠️ Technologies and Tools
+
+I work across a wide variety of platforms, languages, and tools. Here’s a breakdown of my expertise:
 
 ### 💻 Operating Systems
 <p align="left">
