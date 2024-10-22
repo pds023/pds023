@@ -90,24 +90,28 @@ I work across a wide variety of platforms, languages, and tools. Here’s a brea
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON" />
 </p>
 
-### 🎨 Design & Other Tools
+### 🎨 Design & Other Tools!
+
 <p align="left">
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff" alt="freeCodeCamp" />
 </p>
 
----
 
-## 🎮 Platforms
+## 🎮 Platforms!
+
 <p align="left">
   <img src="https://www.codewars.com/users/LFM023/badges/large" alt="CodeWars Badge" />
-  <img src="https://tryhackme-badges.s3.amazonaws.com/lfm023.png" alt="TryHackMe Badge" />
+  <img src="https://github.com/user-attachments/assets/72d25dde-12d9-48a2-a801-0924c38df9f5" alt="TryHackMe Badge" />
+  <img src="https://github.com/user-attachments/assets/bffd0749-3634-437a-bc36-4b535ba09aa7" />
+  <img src="https://github.com/user-attachments/assets/1d322541-e919-46e3-907f-afca4e6f2a8a" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats!
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pds023&show_icons=true&locale=en&layout=compact" alt="Philippe's GitHub stats" />
 </p>
