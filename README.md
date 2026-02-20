@@ -1,91 +1,99 @@
-# Welcome 👋, I'm Philippe
+```
+ ____  _     _ _ _                   _____            _        _
+|  _ \| |__ (_) (_)_ __  _ __   ___|  ___|__  _ __ | |_ __ _(_)_ __   ___
+| |_) | '_ \| | | | '_ \| '_ \ / _ \ |_ / _ \| '_ \| __/ _` | | '_ \ / _ \
+|  __/| | | | | | | |_) | |_) |  __/  _| (_) | | | | || (_| | | | | |  __/
+|_|   |_| |_|_|_|_| .__/| .__/ \___|_|  \___/|_| |_|\__\__,_|_|_| |_|\___|
+                   |_|   |_|
+```
 
-### Data Scientist in the Public Sector · Policy Evaluation · Fraud Detection · Shiny Developer
+**Data Scientist | Public Sector | Fraud Detection | Policy Evaluation**
 
-I’m a data scientist based in France, working mainly with **large administrative datasets** to support **public policy evaluation**, **fraud detection** and **public finance analysis**.  
-I enjoy turning messy data into decision-ready insights and building **interactive tools (R Shiny / Python)** for non-technical users.
-
----
-
-## 🚀 About Me
-
-- 🔭 **Current focus**:  
-  Building **Shiny applications** for data exploration, monitoring and reporting in a public-sector context (evaluation, oversight, audits, HR, dashboards).
-
-- 🌱 **Learning & curiosity**:  
-  Deepening my knowledge of **cybersecurity**, **data protection**, and how **human factors / social engineering** interact with technical systems.
-
-- 👯 **Open to collaborate on**:  
-  Projects related to **data science**, **OSINT (open-source intelligence)**, risk analysis, or tools that help **evaluate public policies**.
-
-- 📂 **Portfolio**:  
-  👉 [www.philippefontaine.eu](https://www.philippefontaine.eu)
-
-- 📄 **Résumé**:  
-  👉 [Download my CV (EN)](https://www.philippefontaine.eu/img/resume/cv_public.pdf)
-
-- 📫 **Reach me**:  
-  **philippe.fontaine.ds@proton.me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/philippe-fontaine-ds)
+[![Portfolio](https://img.shields.io/badge/Portfolio-philippefontaine.eu-222?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.philippefontaine.eu)
+[![Email](https://img.shields.io/badge/ProtonMail-6D4AFF?style=flat-square&logo=protonmail&logoColor=white)](mailto:philippe.fontaine.ds@proton.me)
+[![CV](https://img.shields.io/badge/CV-Download_PDF-grey?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://www.philippefontaine.eu/img/resume/cv_public.pdf)
 
 ---
 
-## 🔗 Connect with Me
+## `$ whoami`
 
-[LinkedIn](https://linkedin.com/in/philippe-fontaine-ds) ·
+Data scientist based in France, working with **large-scale administrative datasets** in the public sector. I build analytical pipelines and **interactive tools** to support policy evaluation, fraud detection, and public finance oversight.
 
----
+Most of my work is internal to public institutions. What you see here is the visible part.
 
-## 🧰 Tech Stack
-
-### Core Data & Analytics
-
-- **Languages**: R, Python, SQL  
-- **Data science / ML**: statistical modelling, forecasting, policy evaluation, fraud detection (rules & models)  
-- **Apps & dashboards**: R Shiny (full stack), HTML/CSS/JS basics  
-- **Tools**: Git, Linux (daily driver), Jupyter / R Markdown
-
-### Also used / learning
-
-- **Web & frontend**: JavaScript, React, Next.js, Bootstrap  
-- **Back-end**: Flask, basic Node.js  
-- **Infrastructure**: Docker, Kubernetes (foundations), AWS (intro level)
-
-### OS & Environments
-
-Linux (Ubuntu, Arch), Kali Linux (for security labs), Windows.
+```
+focus    = ["policy evaluation", "fraud detection", "public finance", "shiny apps"]
+learning = ["cybersecurity", "data protection", "social engineering", "OSINT"]
+collab   = ["data science", "risk analysis", "public policy tools"]
+```
 
 ---
 
-## 📂 Selected Projects
+## `$ cat /etc/stack`
 
-Some public-facing projects (most of my work is internal to public institutions):
+### Core
 
-- **ThesisR** – [Demo](https://l023aq.shinyapps.io/thesesfr/)  
-  Interactive analysis of PhD theses defended in France since 1985 (disciplines, institutions, trends over time), with exploratory work on weak signals in sensitive fields.
+| Domain | Technologies |
+|---|---|
+| **Languages** | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Data Science / ML** | Statistical modelling, forecasting, causal inference, fraud detection (rule-based & ML) |
+| **Apps & Dashboards** | ![Shiny](https://img.shields.io/badge/Shiny-13849E?style=flat-square&logo=rstudio&logoColor=white) (full-stack) , HTML / CSS / JS |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) R Markdown |
 
-- **CIR – Contrats d’intégration républicaine** – [Demo](https://l023aq.shinyapps.io/minintCIR/)  
-  Shiny app to visualise the main characteristics of Republican Integration Contracts and help analyse integration pathways.
+### Expanding
 
-- **SignalConso Explorer** – [Demo](https://l023aq.shinyapps.io/shinySignalConso/)  
-  Exploration of consumer reports from the SignalConso platform, with filters and charts to detect recurring issues and patterns.
+| Domain | Technologies |
+|---|---|
+| **Web** | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Back-end** | ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white) |
 
-- **VulnGovTracker** *(access on request)*  
-  Monitoring of public servants’ exposure to known data breaches using the **Have I Been Pwned** database, for awareness-raising and cyber risk reduction in public organisations.
+### Environment
 
-More on my website: [philippefontaine.eu](https://www.philippefontaine.eu)
-
----
-
-## 🎮 Practice & Learning Platforms
-
-I use a few platforms to keep learning and practising:
-
-- **Codewars** – algorithmic challenges  
-- **TryHackMe / other security labs** – cybersecurity fundamentals & hands-on practice  
-- **HackerRank / LeetCode** – coding exercises & problem solving
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## `$ ls ~/projects`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pds023&show_icons=true&locale=en&layout=compact)
+> Most of my work is internal to public institutions. Below are a few public-facing projects.
+
+| Project | Description | Link |
+|---|---|---|
+| **ThesisR** | Interactive analysis of PhD theses defended in France since 1985 — disciplines, institutions, trends, weak signals in sensitive fields. | [Demo](https://l023aq.shinyapps.io/thesesfr/) |
+| **CIR** | Visualization of Republican Integration Contracts to analyse integration pathways. | [Demo](https://l023aq.shinyapps.io/minintCIR/) |
+| **SignalConso Explorer** | Exploration of consumer reports from SignalConso — filters and charts to detect patterns. | [Demo](https://l023aq.shinyapps.io/shinySignalConso/) |
+| **VulnGovTracker** | Monitoring public servants' exposure to known data breaches (HIBP) for cyber risk reduction. | *access on request* |
+
+---
+
+## `$ cat /var/log/training.log`
+
+| Platform | Focus |
+|---|---|
+| **Codewars** | Algorithmic challenges |
+| **TryHackMe** | Cybersecurity fundamentals & hands-on labs |
+| **HackerRank / LeetCode** | Problem solving & coding exercises |
+
+---
+
+## `$ git log --stat`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pds023&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pds023&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pds023&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pds023&style=flat-square&color=555" alt="profile views" />
+</p>
